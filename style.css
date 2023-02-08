@@ -94,6 +94,10 @@ input{
   background: #FAFAFC;
 }
 
+input:hover{
+  border: 1px solid #aaaab1;
+}
+
 .input_name{
   display: flex;
   justify-content: space-between;
@@ -102,6 +106,19 @@ input{
 
 .input_name input{
   width: 300px;
+}
+
+h2{
+  font-family: 'Staatliches';
+  font-size: 20px;
+  font-weight: 400;
+
+  line-height: 34px;
+
+  color: #535971;
+
+  margin-bottom: 8px;
+
 }
 
 .firt_mentoring{
@@ -120,7 +137,7 @@ input{
   width: 100%;
 }
 
-input .date{
+.date input{
   width: 300px; 
 }
 
@@ -130,11 +147,41 @@ input .date{
   gap:10px;
 }
 
-.datetime label{
-  width: 100%;
+.datetime input{
+  width: 140px;
 }
 
+.submit_forms{
+  width: 750px;
+  height: 160px;
+  border-radius: 0 0 20px 20px;
 
+  background: #535971;
 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
+.submit_forms input{
+  width: 608px;
+  border: none;
+  margin: 0 auto;
 
+  background: #FF5374;
+
+  font-family: 'Staatliches';
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.submit_forms input:hover{
+  background: #fa6482;
+  cursor: pointer;
+}
+
+footer{
+  display: flex;
+  justify-content: center;
+  margin: 50px auto 10px;
+}
