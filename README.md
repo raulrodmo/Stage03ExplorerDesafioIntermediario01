@@ -6,7 +6,8 @@ Repositório do 1º desafio do stage 03 da turma 09 do explorer, o objetivo era 
 
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#project">Project</a>
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout">Layout</a>
 </p>
 
 <br>
@@ -25,10 +26,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Project
 
-O projeto consiste em uma página de divulgação de pacotes de viagem.
+O projeto consiste em uma página com um formulário.
 
 - [Visite o projeto online](https://formsmentoria-raulrodmo.netlify.app/)
 
----
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Nws1KWB7DyXBw8L6wXb9mp/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 <p align="center">Made with 💜 by raulrodmo</p>
